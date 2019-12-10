@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fillAuto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fillAuto_jar</output-path>
+    <root id="archive" name="fillAuto.jar">
+      <element id="module-output" name="fillAuto" />
+    </root>
+  </artifact>
+</component>
